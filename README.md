@@ -3,7 +3,7 @@
 
 
 <img src="https://drive.google.com/uc?export=view&id=1ZsDGpAdhfkNjNkQQ5OnigbchK7gyar0L" align="right" height="275" />
-<p>iOS Software Enginner at <a href="https://www.linkedin.com/company/weventure-global/">WeVenture </a></br>
+<p>iOS Software Enginner at <a href="https://shgardi.app/en/index.html">Shgardi </a></br>
 </p>
 
 ### Talking about Personal Stuffs:
