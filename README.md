@@ -3,7 +3,7 @@
 
 
 <img src="https://drive.google.com/uc?export=view&id=1ZsDGpAdhfkNjNkQQ5OnigbchK7gyar0L" align="right" height="275" />
-<p>iOS Software Enginner at <a href="https://shgardi.app/en/index.html">Shgardi </a></br>
+<p>iOS Software Enginner at <a href="https://snoonu.com">Snoonu </a></br>
 </p>
 
 ### Talking about Personal Stuffs:
@@ -41,7 +41,7 @@
   <i><b>Let's connect and chat!</b></i>
       
   <p align="center">
-    <a href="https://www.linkedin.com/in/abdonasser18/" alt="Linkedin"><img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/abdonasser18" alt="Linkedin"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height="30" width="30"></a>&nbsp;
   </p>
     <p align="center">
 </p>
